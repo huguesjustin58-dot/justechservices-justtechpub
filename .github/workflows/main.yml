@@ -1,4 +1,4 @@
-name: Build and Push justechservices
+name: Build and Push justechserviceS
 
 on:
   push:
